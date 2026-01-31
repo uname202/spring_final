@@ -1,0 +1,13 @@
+.idea
+target/
+.idea/
+*.iml
+.DS_Store
+logs/
+*.log
+/.mvn/
+.mvn/wrapper/maven-wrapper.jar
+/.classpath
+/.project
+/.settings/
+hs_err_pid*
